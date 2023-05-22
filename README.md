@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### 
+![123wwwa's github stats](https://github-readme-stats.vercel.app/api?username=123wwwa&show_icons=true&theme=tokyonight)
 <!--
 **123wwwa/123wwwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
